@@ -1,4 +1,4 @@
-# Cybersecurity Concepts Glossary
+# Cybersecurity Glossary
 Here you can find links to all my repositories that breakdown Cybersecurity concepts!
 
 ## Glossary
